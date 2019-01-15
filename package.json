@@ -1,24 +1,23 @@
 {
-  "name": "antd-tools",
-  "version": "6.5.0",
-  "description": "tools for ant design",
+  "name": "@dwd/arrow-tools",
+  "version": "1.0.0",
+  "description": "tools for arrow. forked from ant-design/antd-tools",
   "keywords": [
     "react",
     "tools"
   ],
-  "homepage": "http://github.com/ant-design/antd-tools",
-  "author": "yiminghe@gmail.com",
+  "homepage": "https://github.com/zhongjie-chen/arrow-tools",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ant-design/antd-tools.git"
+    "url": "git@github.com:zhongjie-chen/arrow-tools.git"
   },
   "bugs": {
-    "url": "http://github.com/ant-design/antd-tools/issues"
+    "url": "https://github.com/zhongjie-chen/arrow-tools/issues"
   },
   "license": "MIT",
   "bin": {
-    "antd-tools": "./bin/antd-tools.js",
-    "antd-tools-run": "./bin/antd-tools-run.js"
+    "arrow-tools": "./bin/arrow-tools.js",
+    "arrow-tools-run": "./bin/arrow-tools-run.js"
   },
   "scripts": {
     "pub": "git push origin && npm publish",
